@@ -1,7 +1,13 @@
 <div align="center">
 
 # 쓰레기 야생 데이터팩
-쓰레기 같은 야생 데이터팩!
+[![Version](https://img.shields.io/badge/Version-1.0-6047ff?&logo=Webpack&logoColor=ffffff&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/releases)
+[![Version](https://img.shields.io/badge/MC-1.20.2-6047ff?&logo=Webpack&logoColor=ffffff&style=for-the-badge&style=flat-square&color="yellow")](https://github.com/grape82/crazysurvival/releases)
+[![Downloads](https://img.shields.io/github/downloads/grape82/crazysurvival/total?label=Downloads&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/releases)
+[![Stargazers](https://img.shields.io/github/stars/grape82/crazysurvival?label=stars&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/stargazers)
+[![Forks](https://img.shields.io/github/forks/grape82/crazysurvival?label=forks&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/releases/forks)
+[![Watchers](https://img.shields.io/github/watchers/grape82/crazysurvival?label=watchers&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/watchers)
+
 
 </div>
 
@@ -9,7 +15,7 @@
 - 마플님이 만드신 스트롱몬스터, 억까크래프트를 구현하고 합쳐서 쓰레기 같이 만들었습니다!
 
 ## ⚠️ 주의
-- **쓰레기 야생 데이터팩**은 1.20.2 버전에서만 작동합니다!
+- **쓰레기 야생 데이터팩**은 JE 1.20.2 버전에서만 작동합니다!
 
 ## ✨ 기능
 <details><summary>⭐ 몹 변화</summary>
