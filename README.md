@@ -53,4 +53,4 @@
 </details>
 
 ## ⬇️ 다운로드
-### [클릭해서 다운로드하세요!]()
+### [클릭해서 다운로드하세요!](https://github.com/grape82/crazysurvival/releases)
