@@ -1,7 +1,7 @@
 <div align="center">
 
 # 쓰레기 야생 데이터팩
-[![Version](https://img.shields.io/badge/Version-1.1-6047ff?&logo=Webpack&logoColor=ffffff&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/releases)
+[![Version](https://img.shields.io/badge/Version-1.1.5-6047ff?&logo=Webpack&logoColor=ffffff&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/releases)
 [![Version](https://img.shields.io/badge/MC-1.20.2-6047ff?&logo=Webpack&logoColor=ffffff&style=for-the-badge&style=flat-square&color="yellow")](https://github.com/grape82/crazysurvival/releases)
 [![Downloads](https://img.shields.io/github/downloads/grape82/crazysurvival/total?label=Downloads&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/releases)
 [![Stargazers](https://img.shields.io/github/stars/grape82/crazysurvival?label=stars&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/stargazers)
