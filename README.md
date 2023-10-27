@@ -53,5 +53,8 @@
   
 </details>
 
+## 🎮 제작자 플레이 영상
+[![](https://img.youtube.com/vi/ZY1QD1L5jTc/0.jpg)](https://www.youtube.com/watch?v=ZY1QD1L5jTc&t=4s)
+
 ## ⬇️ 다운로드
 ### [클릭해서 다운로드하세요!](https://github.com/grape82/crazysurvival/releases)
