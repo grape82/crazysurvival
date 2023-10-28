@@ -1,6 +1,6 @@
 <div align="center">
 
-# 쓰레기 야생 데이터팩
+# 쓰레기크래프트
 [![Version](https://img.shields.io/badge/Version-1.1.5-6047ff?&logo=Webpack&logoColor=ffffff&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/releases)
 [![Version](https://img.shields.io/badge/MC-1.20.2-6047ff?&logo=Webpack&logoColor=ffffff&style=for-the-badge&style=flat-square&color="yellow")](https://github.com/grape82/crazysurvival/releases)
 [![Downloads](https://img.shields.io/github/downloads/grape82/crazysurvival/total?label=Downloads&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/releases)
@@ -16,11 +16,11 @@
 [^water]: 데이지가 계속 들어옵니다 (반블럭, 계단, 울타리 등에 있는 물 제외)
 [^failjump]: 한번 점프 실패하면 2초 동안 점프가 불가합니다
 
-## 💬 쓰레기 야생 데이터팩이란?
+## 💬 쓰레기크래프트란?
 - 마플님이 만드신 스트롱몬스터, 억까크래프트를 구현하고 합쳐서 쓰레기 같이 만들었습니다!
 
 ## ⚠️ 주의
-- **쓰레기 야생 데이터팩**은 JE 1.20.2 버전에서만 작동합니다!
+- **쓰레기크래프트**은 JE 1.20.2 버전에서만 작동합니다!
 
 ## ✨ 기능
 <details><summary>⭐ 몹 변화</summary>
