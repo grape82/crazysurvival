@@ -7,6 +7,7 @@
 [![Stargazers](https://img.shields.io/github/stars/grape82/crazysurvival?label=stars&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/stargazers)
 [![Forks](https://img.shields.io/github/forks/grape82/crazysurvival?label=forks&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/releases/forks)
 [![Watchers](https://img.shields.io/github/watchers/grape82/crazysurvival?label=watchers&style=for-the-badge&style=flat-square)](https://github.com/grape82/crazysurvival/watchers)
+[![YouTube](https://img.shields.io/badge/YouTube-포도-red.svg?logo=youtube)](https://www.youtube.com/channel/UCRO5ekxPBR5WIsYozR92gUw)
 
 
 </div>
